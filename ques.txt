@@ -1,0 +1,80 @@
+1): If a store sells 15 pencils in a day and each pencil costs 11 rupees. How much money did the store make from selling pencils? // Level 5
+65
+2): A garden is 24 meters long and 18 meters wide. What is the total area of the garden?.
+432
+3): If Sally buys 5 notebooks for $3 each and 3 pens for $2 each. How much did she spend in total?.
+21
+4): If there are 30 students in a class and each student gets 4 chocolate bars. How many chocolate bars are needed in total?.
+120
+5): A bookshelf has 6 shelves and each shelf can hold 12 books. How many books can the bookshelf hold in total?
+72
+1): A square garden has a side length of 9 meters. What is its area?. // Level 6
+81
+2): If 5 identical pens cost $25, what is the cost of each pen?.
+5
+3): If a tank initially holds 75 liters of water and 35 liters are poured in, what is the total volume of water in the tank?.
+110
+4): A rectangle has a length of 12 units and a width of 5 units. What is its perimeter?.
+34
+5): If a box contains 24 chocolates and 8 chocolates are taken out, how many remain?
+16
+1): Solve the equation: 4(2x + 3) = 5(x - 1) + 9.  // Level 7
+7
+2): What number is 25 percent of 80?.
+20
+3): If 3x - 5 = 4x + 7, what is the value of x.
+12
+4): If a circle's diameter is 14 cm, what is its radius?.
+7
+5): A rectangle has a length of 12 units and a width of 5 units. What is its area?
+60
+1): What is the sum of the interior angles in a nonagon (9-sided polygon)?.// Level 8
+1260
+2): If the ratio of boys to girls in a class is 5:3, and there are 24 girls, how many students are there in total?.
+64
+3): If a sales tax of 8 percent is added to a product priced at $150, what is the total cost?.
+162
+4): If a number is increased by 20 percent and the result is 144, what is the original number?.
+120
+5): What is the value of √(9² + 12²)?. 
+15
+1): The ages of a family of five add to BO. The two youngest are 6 and B. What was the sum of the ages of the family seven years ago?. // Level 9
+46
+2): A wooden fence consists of a series of vertical planks. each joined to the next post by four horizontal planks. The first and last plank in the fence are vertical.?.
+96
+3): After having played 200 games of chess. my winning rate is exactly 49 percent. What is the smallest number of extra games I need to play to increase my winning rate to exactly 50 percent?.
+3
+4): A wire of length 95 m is cut into three pieces such that the length of each piece is 50 percent more than the previous piece. What is the length of the largest piece? .
+45
+5): Tim calculates the mean of five different prime numbers. His answer is an integer. What is the smallest possible integer he could have obtained?  
+5
+1): How many three-digit positive integers x are there. such that subtracting the sum of digits of x from x gives a three-digit number whose digits are all the same?. // Level 10
+2
+2): Calculate the volume of a cube with an edge length of 10 cm..
+1000
+3): Solve the quadratic equation: 2x^2 + 5x - 3 = 0.
+0
+4): Solve the system of equation: 2x + 3y = 11 .
+2
+5): Find the value of log₂ 64 // Level 11
+6
+1): Determine the solution set for |2x - 1| = 5. // Level 11
+3
+2): What is the value of log₂(16)?.
+4
+3): Solve the trigonometric equation: 2sin(x) = √3..
+30
+4): Integrate the function ∫(2x + 1) dx from 0 to 3.
+9
+5): Solve the trigonometric equation: 2sin(x) = √3, where x is in degrees 
+30
+1): What is the value of π (pi) rounded to the nearest whole number?. // Level 12
+3
+2): Calculate the volume of a cylinder with a radius of 4 cm and height of 10 cm, expressing the answer in terms of π.
+120
+3): Evaluate the limit as x approaches 0 for (sinx)/x.
+1
+4): Solve the quadratic equation: 2x^2 - 5x + 3 = 0.
+1
+5): Simplify the expression: (3√2)^2 ÷ √2
+18
